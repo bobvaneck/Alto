@@ -8,14 +8,14 @@
     --mid-gray-color: #d9d9d9;
     --dark-gray-color: #1a1a1a;
     --black-color: #000;
-    --dark-mode-bg-color: #282c35;
-    --dark-mode-darker-bg-color: #21252c;
+    --dark-mode-bg-color: #1b1e25;
+    --dark-mode-darker-bg-color: #14161b;
     --dark-mode-primary-text-color: #ccc;
     --dark-mode-secondary-text-color: #999;
     --dark-mode-border-color: #495061;
     --animation-base: ease-in-out;
     --shadow-base: 0 0 5px rgba(0, 0, 0, 0.2);
-    --font-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace; /* stylelint-disable-line value-keyword-case */
+    --font-mono: Montserrat, Consolas, Monaco, Liberation Mono, Lucida Console, monospace; /* stylelint-disable-line value-keyword-case */
 }
 
 html {
@@ -30,7 +30,7 @@ html {
 
 body {
     color: var(--primary-text-color);
-    font-family: Muli, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 16px;
     line-height: 1.65;
     text-rendering: optimizeLegibility;
